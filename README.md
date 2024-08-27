@@ -1,6 +1,6 @@
-# IGME-110-Repo(but lv1)
-## IGME-110-Repo(but lv2)
-### IGME-110-Repo(but lv3)
+# IGME-110-Repo (but lv1)
+## IGME-110-Repo (but lv2)
+### IGME-110-Repo (but lv3)
 ---
 
 - item 1
