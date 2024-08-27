@@ -13,10 +13,19 @@
 4. item Dee
 ---
 
-https://www.rit.edu/
-
 [RIT](https://www.rit.edu/)
 
+https://www.rit.edu/
+
+![RIT](https://www.rit.edu/brandportal/sites/rit.edu.brandportal/files/inline-images/new_RIT_logo1_RGB_0.png)
+---
 
 ---
 
+---
+
+---
+
+---
+
+---
