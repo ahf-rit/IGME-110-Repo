@@ -21,11 +21,9 @@ https://www.rit.edu/
 ---
 ![AAAAAAAAAA](md-images/cassie.jpg)
 ---
-
+![AAAAAAAAAA](md-images/eagle.jpg)
 ---
-
+![AAAAAAAAAA](md-images/seal.jpg)
 ---
-
----
-
+![AAAAAAAAAA](md-images/wolf.jpg)
 ---
